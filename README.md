@@ -10,4 +10,4 @@ These projects are using either public domain datasets or mock datasets. The ana
 - DAX
 
 ## Project List:
-https://github.com/silva-june/Power-Query-Practice/tree/main/women-shoes-retail
+[Women's Shoe Store Retail Dashboard](https://github.com/silva-june/Power-Query-Practice/tree/main/women-shoes-retail)
