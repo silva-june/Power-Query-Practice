@@ -6,5 +6,8 @@ https://www.kaggle.com/datasets/halaturkialotaibi/shoe-store-sales-performance-d
 #### Licence:</br>
 CC0: Public Domain
 
+#### Purpose:</br>
+With this mock dataset, the dashboard examines the sales information (revenue and volume) of a women's shoe retail change.
+
 #### Preview</br>
 ![Preview1](https://github.com/silva-june/Power-Query-Practice/blob/main/women-shoes-retail/ReadMe/preview1.png?raw=true)
