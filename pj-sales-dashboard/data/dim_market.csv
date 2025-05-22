@@ -1,0 +1,5 @@
+﻿market_id,country_name,country_code,LCID,market_share
+1,Germany,DE,de-DE,0.4
+2,United Kingdom,GB,en-GB,0.3
+3,Italy,IT,it_IT,0.2
+4,Austria,AT,de-AT,0.1
