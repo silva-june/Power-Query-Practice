@@ -5,3 +5,4 @@
 **/pj-sales-dashboard/.vscode
 **/pj-sales-dashboard/dax-queries
 **/pj-sales-dashboard/data/ignore
+**/pj-sales-dashboard/sales-data-generator.py

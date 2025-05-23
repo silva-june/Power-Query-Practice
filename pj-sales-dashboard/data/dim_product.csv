@@ -1,28 +1,28 @@
 product_id,product_name,category,sub_category,unit_price,unit_cost,brand,target
-PROD-0001,Steinböck-Trattner Creative Suite,Software,Creative Suite,436.67,382.07,Steinböck-Trattner,21546.0
-PROD-0002,Steinböck-Trattner Keyboard,Accessory,Keyboard,14.67,11.48,Steinböck-Trattner,26933.0
-PROD-0003,Odescalchi-Galeati e figli Office Suite,Software,Office Suite,185.34,154.23,Odescalchi-Galeati e figli,21546.0
-PROD-0004,Steinböck-Trattner Creative Suite,Software,Creative Suite,136.14,105.6,Steinböck-Trattner,21546.0
-PROD-0005,Odescalchi-Galeati e figli Laptop,Hardware,Laptop,1155.31,881.25,Odescalchi-Galeati e figli,10773.0
-PROD-0006,Odescalchi-Galeati e figli Charger,Accessory,Charger,12.61,11.11,Odescalchi-Galeati e figli,26933.0
-PROD-0007,Odescalchi-Galeati e figli Case,Accessory,Case,45.15,39.88,Odescalchi-Galeati e figli,26933.0
-PROD-0008,Bichler-Hemetsberger Charger,Accessory,Charger,37.18,27.27,Bichler-Hemetsberger,26933.0
-PROD-0009,Steinböck-Trattner Creative Suite,Software,Creative Suite,197.79,160.59,Steinböck-Trattner,21546.0
-PROD-0010,Odescalchi-Galeati e figli Tablet,Hardware,Tablet,1232.39,1083.89,Odescalchi-Galeati e figli,10773.0
-PROD-0011,Odescalchi-Galeati e figli Keyboard,Accessory,Keyboard,44.36,32.86,Odescalchi-Galeati e figli,26933.0
-PROD-0012,Steinböck-Trattner Creative Suite,Software,Creative Suite,219.22,170.41,Steinböck-Trattner,21546.0
-PROD-0013,Odescalchi-Galeati e figli Tablet,Hardware,Tablet,733.78,617.72,Odescalchi-Galeati e figli,10773.0
-PROD-0014,Bichler-Hemetsberger Case,Accessory,Case,58.82,47.31,Bichler-Hemetsberger,26933.0
-PROD-0015,Odescalchi-Galeati e figli Operating System,Software,Operating System,104.51,88.17,Odescalchi-Galeati e figli,21546.0
-PROD-0016,Steinböck-Trattner Case,Accessory,Case,48.96,35.07,Steinböck-Trattner,26933.0
-PROD-0017,Bichler-Hemetsberger Tablet,Hardware,Tablet,1269.99,1085.56,Bichler-Hemetsberger,10773.0
-PROD-0018,Odescalchi-Galeati e figli Tablet,Hardware,Tablet,646.08,525.36,Odescalchi-Galeati e figli,10773.0
-PROD-0019,Steinböck-Trattner Tablet,Hardware,Tablet,683.73,574.09,Steinböck-Trattner,10773.0
-PROD-0020,Bichler-Hemetsberger Case,Accessory,Case,18.6,16.31,Bichler-Hemetsberger,26933.0
-PROD-0021,Bichler-Hemetsberger Charger,Accessory,Charger,44.9,32.47,Bichler-Hemetsberger,26933.0
-PROD-0022,Steinböck-Trattner Laptop,Hardware,Laptop,765.24,563.49,Steinböck-Trattner,10773.0
-PROD-0023,Odescalchi-Galeati e figli Charger,Accessory,Charger,46.86,41.76,Odescalchi-Galeati e figli,26933.0
-PROD-0024,Odescalchi-Galeati e figli Operating System,Software,Operating System,263.28,199.11,Odescalchi-Galeati e figli,21546.0
-PROD-0025,Odescalchi-Galeati e figli Creative Suite,Software,Creative Suite,279.85,207.91,Odescalchi-Galeati e figli,21546.0
-PROD-0026,Odescalchi-Galeati e figli Keyboard,Accessory,Keyboard,55.23,44.31,Odescalchi-Galeati e figli,26933.0
-PROD-0027,Bichler-Hemetsberger Case,Accessory,Case,24.0,17.35,Bichler-Hemetsberger,26933.0
+PROD-0001,Odescalchi-Galeati e figli Creative Suite,Software,Creative Suite,434.98,380.59,Odescalchi-Galeati e figli,21546.0
+PROD-0002,Odescalchi-Galeati e figli Keyboard,Accessory,Keyboard,15.53,12.15,Odescalchi-Galeati e figli,26933.0
+PROD-0003,Odescalchi-Galeati e figli Laptop,Hardware,Laptop,905.3,753.33,Odescalchi-Galeati e figli,10773.0
+PROD-0004,Bichler-Hemetsberger Desktop PC,Hardware,Desktop PC,1359.44,1054.49,Bichler-Hemetsberger,10773.0
+PROD-0005,Steinböck-Trattner Case,Accessory,Case,38.99,29.74,Steinböck-Trattner,26933.0
+PROD-0006,Odescalchi-Galeati e figli Creative Suite,Software,Creative Suite,397.51,350.27,Odescalchi-Galeati e figli,21546.0
+PROD-0007,Steinböck-Trattner Operating System,Software,Operating System,134.54,118.84,Steinböck-Trattner,21546.0
+PROD-0008,Odescalchi-Galeati e figli Tablet,Hardware,Tablet,991.49,727.29,Odescalchi-Galeati e figli,10773.0
+PROD-0009,Steinböck-Trattner Creative Suite,Software,Creative Suite,384.09,311.86,Steinböck-Trattner,21546.0
+PROD-0010,Steinböck-Trattner Office Suite,Software,Office Suite,296.06,260.38,Steinböck-Trattner,21546.0
+PROD-0011,Odescalchi-Galeati e figli Keyboard,Accessory,Keyboard,58.06,43.01,Odescalchi-Galeati e figli,26933.0
+PROD-0012,Steinböck-Trattner Office Suite,Software,Office Suite,335.47,260.77,Steinböck-Trattner,21546.0
+PROD-0013,Odescalchi-Galeati e figli Desktop PC,Hardware,Desktop PC,734.51,618.34,Odescalchi-Galeati e figli,10773.0
+PROD-0014,Steinböck-Trattner Case,Accessory,Case,12.71,10.22,Steinböck-Trattner,26933.0
+PROD-0015,Steinböck-Trattner Case,Accessory,Case,40.57,34.23,Steinböck-Trattner,26933.0
+PROD-0016,Odescalchi-Galeati e figli Tablet,Hardware,Tablet,565.72,405.26,Odescalchi-Galeati e figli,10773.0
+PROD-0017,Bichler-Hemetsberger Case,Accessory,Case,14.49,12.39,Bichler-Hemetsberger,26933.0
+PROD-0018,Odescalchi-Galeati e figli Operating System,Software,Operating System,119.68,97.32,Odescalchi-Galeati e figli,21546.0
+PROD-0019,Steinböck-Trattner Creative Suite,Software,Creative Suite,60.72,50.98,Steinböck-Trattner,21546.0
+PROD-0020,Bichler-Hemetsberger Tablet,Hardware,Tablet,505.24,443.01,Bichler-Hemetsberger,10773.0
+PROD-0021,Bichler-Hemetsberger Creative Suite,Software,Creative Suite,192.95,139.54,Bichler-Hemetsberger,21546.0
+PROD-0022,Steinböck-Trattner Keyboard,Accessory,Keyboard,39.37,28.99,Steinböck-Trattner,26933.0
+PROD-0023,Steinböck-Trattner Creative Suite,Software,Creative Suite,299.86,267.25,Steinböck-Trattner,21546.0
+PROD-0024,Steinböck-Trattner Operating System,Software,Operating System,457.49,345.98,Steinböck-Trattner,21546.0
+PROD-0025,Bichler-Hemetsberger Tablet,Hardware,Tablet,595.52,442.44,Bichler-Hemetsberger,10773.0
+PROD-0026,Steinböck-Trattner Laptop,Hardware,Laptop,1028.45,825.1,Steinböck-Trattner,10773.0
+PROD-0027,Steinböck-Trattner Case,Accessory,Case,39.77,28.75,Steinböck-Trattner,26933.0
